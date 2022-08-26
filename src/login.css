@@ -1,0 +1,26 @@
+body{
+    background-color: rgb(222, 242, 246);
+}
+.details{
+    margin-top: 15vh;
+}
+
+
+.heading{
+ margin-top: 20px;
+ display: flex;
+align-items: center;
+justify-content: center;
+}
+.tab{
+    display: flex;
+    align-items: center;
+    justify-content:center ;
+
+    text-decoration: none;
+    color: rgb(61, 64, 64);;
+    margin-top: 15px;
+}
+.button{
+    margin-top: 10px;
+}
